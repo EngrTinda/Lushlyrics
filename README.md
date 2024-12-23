@@ -1,0 +1,2 @@
+# Lushlyrics
+Adding authentication
